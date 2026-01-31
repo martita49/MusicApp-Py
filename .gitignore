@@ -1,0 +1,33 @@
+# Entornos virtuales
+venv/
+env/
+.env/
+ENV/
+
+# Archivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribuciones y builds
+dist/
+build/
+*.egg-info/
+
+# Archivos de configuración IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos temporales
+*.log
+*.tmp
+temp/
+downloads/  # Opcional: si no quieres subir descargas
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
