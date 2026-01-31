@@ -1,0 +1,7 @@
+tkinter
+pytube
+pydub
+mutagen
+Pillow
+yt-dlp
+python-vlc
