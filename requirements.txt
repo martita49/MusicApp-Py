@@ -1,7 +1,6 @@
-tkinter
-pytube
-pydub
-mutagen
-Pillow
-yt-dlp
-python-vlc
+pytube>=15.0.0
+pydub>=0.25.1
+mutagen>=1.45.1
+Pillow>=10.0.0
+python-vlc>=3.0.18121
+yt-dlp>=2023.10.13

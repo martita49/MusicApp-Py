@@ -1,0 +1,11 @@
+{
+    "theme": "dark",
+    "background": "dark",
+    "custom_background": "",
+    "download_path": "downloads",
+    "default_format": "mp3",
+    "bitrate": "128k",
+    "volume": 70,
+    "recent_collections": [],
+    "window_size": "800x600"
+}
